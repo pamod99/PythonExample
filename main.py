@@ -1,5 +1,6 @@
 import sys
 
+
 user = "__no__user"
 
 def view():
